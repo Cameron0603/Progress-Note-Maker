@@ -1,0 +1,57 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+}
+
+.box {
+  width: 80%;
+  margin: 0 auto;
+}
+
+input {
+  font-size: 110%;
+  width: 100%;
+  margin: 1%;
+}
+
+.center {
+  text-align: center;
+}
+
+input[type="radio"] {
+  width: 2vmin;
+  height: 2vmin;
+}
+
+.title {
+  text-align: center;
+}
+
+label {
+  font-size: 110%;
+  margin-top: 1%;
+}
+
+.check {
+  margin-left: 1%;
+}
+
+.sets {
+  display: flex;
+  margin: 0 auto;
+}
+
+fieldset {
+  flex: 1;
+  margin: 1%;
+  border: 1px solid black;
+}
+
+.legend, legend {
+  font-size: 120%;
+  font-weight: normal;
+}
+
+.sub {
+  font-size: 115%;
+}
